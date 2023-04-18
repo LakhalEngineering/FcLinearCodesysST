@@ -1,3 +1,4 @@
+// Codesys code
 FUNCTION FcLinTraz : REAL
 VAR_INPUT
 	VALORE_IN : REAL;
