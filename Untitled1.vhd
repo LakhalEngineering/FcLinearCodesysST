@@ -1,4 +1,5 @@
-// Codesys code
+// Structred text programming( Codesys code) for PLC programming
+// Obecjt : Linear function Ax+B=Y
 FUNCTION FcLinTraz : REAL
 VAR_INPUT
 	VALORE_IN : REAL;
